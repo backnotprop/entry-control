@@ -1,0 +1,29 @@
+{
+  "name": "entry-control",
+  "version": "0.0.1",
+  "description": "ip auth and tokening",
+  "main": "EntryControl.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://mdramos@github.com/mdramos/entry-control.git"
+  },
+  "keywords": [
+    "ip",
+    "auth",
+    "jwt",
+    "uuid"
+  ],
+  "author": "Michael Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdramos/entry-control/issues"
+  },
+  "homepage": "https://github.com/mdramos/entry-control#readme",
+  "dependencies": {
+    "jsonwebtoken": "^7.1.9",
+    "lodash": "^4.16.4",
+    "node-uuid": "^1.4.7"
+  },
+  "devDependencies": {}
+}
